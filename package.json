@@ -1,6 +1,6 @@
 {
   "name": "travis-config-shared-modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simplified util for installing the correct .travis.yml file for shared modules for testing",
   "main": "index.js",
   "dependencies": {

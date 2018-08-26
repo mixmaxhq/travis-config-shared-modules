@@ -1,0 +1,33 @@
+{
+  "name": "travis-config-shared-modules",
+  "version": "0.0.0",
+  "description": "A simplified util for installing the correct .travis.yml file for shared modules for testing",
+  "main": "index.js",
+  "dependencies": {
+    "install-files": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "install": "echo 'installing'; install-files source",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/travis-config-shared-modules.git"
+  },
+  "keywords": [
+    "travis",
+    "config",
+    "install",
+    "files",
+    "install-files",
+    "travis.yml",
+    ".travis.yml"
+  ],
+  "author": "Trey Tacon <trey@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/travis-config-shared-modules/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/travis-config-shared-modules#readme"
+}

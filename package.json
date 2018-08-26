@@ -4,7 +4,7 @@
   "description": "A simplified util for installing the correct .travis.yml file for shared modules for testing",
   "main": "index.js",
   "dependencies": {
-    "install-files": "^1.1.5"
+    "install-files": "^2.0.1"
   },
   "devDependencies": {},
   "scripts": {
